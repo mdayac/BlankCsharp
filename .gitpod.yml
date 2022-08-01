@@ -1,2 +1,2 @@
-# Load .NET docker image.
-FROM mcr.microsoft.com/dotnet/sdk
+image:
+  file: .gitpod.Dockerfile
